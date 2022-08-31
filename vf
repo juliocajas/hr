@@ -1,0 +1,317 @@
+#EXTM3U list-name="Canales Latinos ðŸ˜ " list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/71e91b0bcfa59b9a9c252a1ad00b4c4e.png" group-title="Entretenimiento",| RTS 
+https://youvideostreaming.club/hls/ecutv2.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", PASAJE
+https://canal.pasajetv.com/PasajeTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GM2dStS/ecotel.jpg" tvg-group="Entretenimiento", ECOTEL
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1070665175.m3u8
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/aadc10d9bdd50458562b07fb839dae3c.png" group-title="Entretenimiento" | TV PURUWA
+https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",ECUAESTEREO
+https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1639083648.m3u8
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/64cccecd49eb951d6067f44f26266416.png" group-title="Entretenimiento"  A&E FHD 
+http://190.61.102.67:3000/play/a02g
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/cd49ecf63cdd937a75859891e21debb0.png" group-title="Entretenimiento"| AXN HD
+http://190.61.102.67:3000/play/a04m
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/777fcaf97cd90b812badb6ad575d624a.png" group-title="Entretenimiento" | AMC
+http://190.61.102.67:3000/play/a02h
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/f631d0d5d8c5d84a75acc1fa447b287f.png" group-title="Entretenimiento" | ANIMAL PLANET HD
+http://190.61.102.67:3000/play/a02d
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" Disney Channel
+http://190.61.102.67:3000/play/a02n
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" Disney Channel
+http://190.61.102.67:3000/play/a00p
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" Disney Channel
+http://190.61.102.67:3000/play/a003
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/70a3ef126565ccabff7e67661b0eb115.png" group-title="Entretenimiento" | CLARO
+http://190.61.102.67:3000/play/a01f
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/70a3ef126565ccabff7e67661b0eb115.png" group-title="Entretenimiento" | CLARO
+http://190.61.102.67:3000/play/a039
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/70a3ef126565ccabff7e67661b0eb115.png" group-title="Entretenimiento" | CLARO
+http://190.61.102.67:3000/play/a010
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ng9CcxY/cn.png" tvg-group="INFANTILES", CARTOON NETWORK
+http://190.61.102.67:3000/play/a01h
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" Disney Channel
+http://190.61.102.67:3000/play/a01j
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/d7781e1d1fe7402de53e8f4e409784c5.png" group-title="Entretenimiento", | CINE LATINO
+http://190.61.102.67:3000/play/a049
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/e2b1aada153348f9705db085595b49c1.jpg" group-title="Entretenimiento" | CINECANAL
+http://190.61.102.67:3000/play/a03d
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/999be455c65517ed2c6afe8183ef1e42.png" group-title="Entretenimiento" | CINEMAX
+http://190.61.102.67:3000/play/a04a
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/70a3ef126565ccabff7e67661b0eb115.png" group-title="DEPORTES FULL HD" | CLARO SPORTS COLOMBIA
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_0=64000-video=6499968.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/a5c416a8ae34a88ddc8f403a8c4e3d91.png" group-title="Entretenimiento"| COMEDY CENTRAL
+http://190.61.102.67:3000/play/a03m
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/c15379468ddd344f41990890d9c0c3d0.png" group-title="Entretenimiento"| DHE HD
+http://190.61.102.67:3000/play/a02m
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/502b053dd7f0edebd20bec3bce65e62e.png" group-title="Entretenimiento"| DISCOVERY THEATHER
+http://190.61.102.67:3000/play/a03j
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/e7f4639abb913a3aa2f05712e25258eb.png" group-title="Entretenimiento"| DISCOVERY CHANNEL
+http://190.61.102.67:3000/play/a032
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/345703a35e519bca9929d6b3abc74a7c.png" group-title="Entretenimiento"| DISCOVERY H&H LATINO HD
+http://190.61.102.67:3000/play/a040
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/5b27473fb07407c397f360a8184947b2.png" group-title="Entretenimiento" | DISCOVERY ID
+http://190.61.102.67:3000/play/a041
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles",Discovery Kids
+http://190.61.102.67:3000/play/a03v
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/0de033b8b61efd8358af79eb5aaf9379.png" group-title="Entretenimiento"| DISCOVERY SCIENCE HD
+http://190.61.102.67:3000/play/a007
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Entretenimiento" Discovery Turbo
+http://190.61.102.67:3000/play/a03z
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" Disney Channel
+http://190.61.102.67:3000/play/a03x
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" Disney Junior
+http://190.61.102.67:3000/play/a01k
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="Entretenimiento" E!
+http://190.61.102.67:3000/play/a02e
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" ESPN
+http://190.61.102.67:3000/play/a036
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes" ESPN +
+http://190.61.102.67:3000/play/a027
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes" ESPN 2
+http://190.61.102.67:3000/play/a037
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" ESPN 3
+http://190.61.102.67:3000/play/a00x
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes" ESPN 4
+http://190.61.102.67:3000/play/a043
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" ESPN
+http://190.61.102.67:3000/play/a04l
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes"Fox Sports
+http://190.61.102.67:3000/play/a01v
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" Fox Sports 2
+http://190.61.102.67:3000/play/a03h
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" tvg-group="Entretenimiento" EUROPA EUROPA
+http://190.61.102.67:3000/play/a02k
+
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/a31377005ff3ebd5406dec5007c5bf1f.png" group-title="Entretenimiento"| FILM & ARTS HD
+http://190.61.102.67:3000/play/a02f
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" FX
+http://190.61.102.67:3000/play/a02j
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento" Golden
+https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento" Golden Edge 
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento" Golden
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento" Golden
+
+https://linear-409.frequency.stream/409/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento" Golden PLUS 
+https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://vplay.club:8888/images/74219e77187d8a857d138208f97567c3.png" group-title="Entretenimiento"| GOLDEN PREMIER FULL HD 
+https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento" Universal
+http://200.41.79.165:8000/play/a040
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento" Warner TV
+http://200.41.79.165:8000/play/a05p
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento" Star Channel
+http://200.41.79.165:8000/play/a08r
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento" Cinemax 
+http://200.41.79.165:8000/play/a04g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento" SPACE
+http://200.41.79.165:8000/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-name="DE PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="Entretenimiento" DE PELICULA
+https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/fc049386abab35d18860c0fac01887fb.png" group-title="Entretenimiento" | TELENOVELAS
+https://linear-421.frequency.stream/421/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Entretenimiento" H2
+http://190.61.102.67:3000/play/a00t
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Entretenimiento" HBO Family
+http://190.61.102.67:3000/play/a00k
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Entretenimiento" HBO
+http://190.61.102.67:3000/play/a00h
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Entretenimiento" HBO +
+http://190.61.102.67:3000/play/a00j
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Entretenimiento" HBO Xtreme
+http://190.61.102.67:3000/play/a00l
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Entretenimiento" HBO 2
+http://190.61.102.67:3000/play/a00i
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Entretenimiento" History Channel
+http://190.61.102.67:3000/play/a026
+
+#EXTINF:-1 ,HOLA! TV HD
+http://190.61.102.67:3000/play/a03l
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/995767f51c5e7f57e4601fb5cbc9a50e.png" group-title="Entretenimiento"| DISCOVERY H&H
+http://190.61.102.67:3000/play/a03k
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/cf248b34e64761adc24804808f4415e1.png" group-title="Entretenimiento"| LIFE TIME HD
+http://190.61.102.67:3000/play/a01u
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/f50717c5af9f273fae54e25c2b855673.png" group-title="Entretenimiento"| Multicinema
+http://190.61.102.67:3000/play/a009
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/f50717c5af9f273fae54e25c2b855673.png" group-title="Entretenimiento"| MULTIPREMIER
+http://190.61.102.67:3000/play/a048
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/50ca0725709b4cba24f74ea7c4c3d1ff.png" group-title="Entretenimiento"| NATIONAL GEOGRAPHIC UHD 
+http://190.61.102.67:3000/play/a01t
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/3145477a3f7136b2fb9d7bbcf8a83e7a.png" group-title="Entretenimiento"| NICK JR
+http://190.61.102.67:3000/play/a01i
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f9tXPpF/nick.png" tvg-group="INFANTILES" NICKELODEON
+http://190.61.102.67:3000/play/a03g
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f9tXPpF/nick.png" tvg-group="INFANTILES" NICKELODEON
+http://190.61.102.67:3000/play/a03w
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" tvg-group="Entretenimiento" PARAMOUNT
+http://190.61.102.67:3000/play/a00e
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="Entretenimiento" PASIONES
+http://190.61.102.67:3000/play/a04t
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dtrm9YN/a7d716a9f7950ce285168550bc75dd82.jpg" tvg-group="Entretenimiento" RCN
+http://190.61.102.67:3000/play/a00r
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="Entretenimiento" Sony
+http://190.61.102.67:3000/play/a03c
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="Entretenimiento" Sony
+http://190.61.102.67:3000/play/a02l
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Entretenimiento" SpaceD
+http://190.61.102.67:3000/play/a04n
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento" Star
+http://190.61.102.67:3000/play/a03a
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="Entretenimiento" Star
+http://190.61.102.67:3000/play/a02o
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Entretenimiento" Studio Universal
+http://190.61.102.67:3000/play/a02b
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/a69b64d776c9dc25378409dec857c020.png" group-title="Entretenimiento" | SUN CHANNEL (5)
+http://190.61.102.67:3000/play/a00v
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Entretenimiento" SyFy
+http://190.61.102.67:3000/play/a02c
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Entretenimiento" TCM
+http://190.61.102.67:3000/play/a014
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/80b2d31dce3e4848d6093ce2d6eb27bd.png" group-title="Entretenimient" | TDI COLOMBIA FHD 
+http://190.61.102.67:3000/play/a01d
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/80b2d31dce3e4848d6093ce2d6eb27bd.png" group-title="Entretenimient" | TDI COLOMBIA FHD 
+http://190.61.102.67:3000/play/a01c
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/aacaf7933ff76accc8829ef86a99935b.png" group-title="Entretenimiento" | NICK JR
+http://190.61.102.67:3000/play/a02a
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="Entretenimiento" Telemundo HD
+http://190.61.102.67:3000/play/a02i
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes" TigoSports HD
+http://190.61.102.67:3000/play/a03f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qWC2wRF/tlc.png" tvg-group="Entretenimiento" TLC
+http://190.61.102.67:3000/play/a035
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Entretenimiento" TNT
+http://190.61.102.67:3000/play/a03i
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento" TNT Series
+http://190.61.102.67:3000/play/a01r
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/efaa060354f81ca7537a372ec54f7db0.png" group-title="INFANTILES" | TOONCAST
+http://190.61.102.67:3000/play/a02v
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="Entretenimiento" Universal
+http://190.61.102.67:3000/play/a046
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="Entretenimiento" CINE UNIVERSAL
+http://190.61.102.67:3000/play/a00f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C79SYb6/ucomedy.png" tvg-group="Entretenimiento" COMEDIA UNIVERSAL
+http://190.61.102.67:3000/play/a03t
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="Entretenimiento" CRIMEN UNIVERSAL
+http://190.61.102.67:3000/play/a03s
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/47G4F78/ureal.png" tvg-group="Entretenimiento" REALIDAD UNIVERSAL
+http://190.61.102.67:3000/play/a03p
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/47G4F78/ureal.png" tvg-group="Entretenimiento" UNIVERSAL PREMIERE O HD
+http://190.61.102.67:3000/play/a03q
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/47G4F78/ureal.png" tvg-group="Entretenimiento" UNIVERSAL REALITY HD
+http://190.61.102.67:3000/play/a03r
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento" Warner Channel
+http://190.61.102.67:3000/play/a03b
